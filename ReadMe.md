@@ -14,10 +14,3 @@ This project reproduces the "Getting to Philosophy" phenomenon on Wikipedia.
 
 ## Results
 Statistics and distributions are computed and plotted after execution.
-
-## Requirements
-- Python 3.9+
-- requests
-- beautifulsoup4
-- matplotlib
-- tqdm
