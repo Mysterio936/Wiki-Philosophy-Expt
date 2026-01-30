@@ -20,8 +20,8 @@ WIKI_BASE = "https://en.wikipedia.org"
 RANDOM_PAGE = "https://en.wikipedia.org/wiki/Special:Random"
 TARGET_PAGE = "Philosophy"
 
-MAX_STEPS = 150
-N_RUNS = 5000
+MAX_STEPS = 200
+N_RUNS = 7500
 
 CSV_FILE = "wiki_philosophy_results.csv"
 CACHE_FILE = "first_link_cache.db"
